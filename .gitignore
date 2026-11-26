@@ -1,0 +1,10 @@
+/data/
+/node_modules/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.key.dpapi
+.env
+.env.local
+.env.production
+*.pem

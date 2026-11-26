@@ -1,0 +1,670 @@
+[
+  {
+    "id": "care/lumi",
+    "src": "/assets/care/lumi.webp",
+    "width": 384,
+    "height": 384,
+    "format": "webp",
+    "alt": "Lumi, a blush porcelain rabbit wearing a mauve scarf",
+    "usage": "Today AI Care shortcut, chat welcome mascot, and assistant avatar",
+    "focalPoint": [0.5, 0.5],
+    "transparency": true,
+    "status": "ImageGen · integrated locally"
+  },
+  {
+    "id": "care/lumi-wave",
+    "src": "/assets/care/lumi-wave.gif",
+    "width": 256,
+    "height": 256,
+    "format": "gif",
+    "durationMs": 1100,
+    "alt": "Lumi lifts a paw and waves",
+    "usage": "Plays once when a user activates the AI Care mascot",
+    "focalPoint": [0.5, 0.5],
+    "transparency": true,
+    "status": "ImageGen pose · assembled and integrated locally"
+  },
+  {
+    "id": "care/lumi-thinking",
+    "src": "/assets/care/lumi-thinking.gif",
+    "width": 160,
+    "height": 160,
+    "format": "gif",
+    "durationMs": 1430,
+    "alt": "Lumi tilts its head while preparing a reply",
+    "usage": "Plays once while AI Care prepares its reply",
+    "focalPoint": [0.5, 0.5],
+    "transparency": true,
+    "status": "Animated from ImageGen still · integrated locally"
+  },
+  {
+    "id": "brand/logo-primary",
+    "src": "/assets/brand/logo-primary.svg",
+    "width": 400,
+    "height": 88,
+    "format": "svg",
+    "alt": "LUNARA",
+    "usage": "Primary logo on ivory",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "brand/logo-mark",
+    "src": "/assets/brand/logo-mark.svg",
+    "width": 96,
+    "height": 96,
+    "format": "svg",
+    "alt": "LUNARA",
+    "usage": "Compact brand mark",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "brand/logo-monochrome",
+    "src": "/assets/brand/logo-monochrome.svg",
+    "width": 400,
+    "height": 88,
+    "format": "svg",
+    "alt": "LUNARA",
+    "usage": "One-colour lockup",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "brand/logo-light",
+    "src": "/assets/brand/logo-light.svg",
+    "width": 400,
+    "height": 88,
+    "format": "svg",
+    "alt": "LUNARA",
+    "usage": "Lockup for light surfaces",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "brand/logo-dark",
+    "src": "/assets/brand/logo-dark.svg",
+    "width": 400,
+    "height": 88,
+    "format": "svg",
+    "alt": "LUNARA",
+    "usage": "Lockup for dark surfaces",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "icons/app-icon",
+    "src": "/assets/icons/app-icon.png",
+    "width": 1024,
+    "height": 1024,
+    "format": "png",
+    "alt": "LUNARA",
+    "usage": "App icon artwork",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "editorial/hero-fabric",
+    "src": "/assets/editorial/hero-fabric.webp",
+    "width": 1440,
+    "height": 960,
+    "format": "webp",
+    "alt": "A woman in profile surrounded by flowing translucent blush fabric",
+    "usage": "Main editorial hero",
+    "focalPoint": [
+      0.74,
+      0.39
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "editorial/welcome-portrait",
+    "src": "/assets/editorial/welcome-portrait.webp",
+    "width": 960,
+    "height": 1200,
+    "format": "webp",
+    "alt": "A woman framed by translucent pink chiffon in soft window light",
+    "usage": "Welcome screen",
+    "focalPoint": [
+      0.54,
+      0.34
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "editorial/floral-study",
+    "src": "/assets/editorial/floral-study.webp",
+    "width": 1200,
+    "height": 800,
+    "format": "webp",
+    "alt": "Translucent pink petals with shadows on an ivory surface",
+    "usage": "Editorial feature",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "editorial/wellness-atmosphere",
+    "src": "/assets/editorial/wellness-atmosphere.webp",
+    "width": 1200,
+    "height": 800,
+    "format": "webp",
+    "alt": "Folded linen, a shallow ceramic bowl, and a dried stem",
+    "usage": "Wellness editorial header",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "backgrounds/blush-mauve-veil",
+    "src": "/assets/backgrounds/blush-mauve-veil.webp",
+    "width": 1200,
+    "height": 800,
+    "format": "webp",
+    "alt": "",
+    "usage": "Decorative background",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "onboarding/cycle-awareness",
+    "src": "/assets/onboarding/cycle-awareness.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "An ivory paper disc surrounded by a ring of blush petals",
+    "usage": "Onboarding step 1",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "onboarding/emotional-wellness",
+    "src": "/assets/onboarding/emotional-wellness.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "A seated silhouette framed by soft mauve and blush folds",
+    "usage": "Onboarding step 2",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "onboarding/personal-insights",
+    "src": "/assets/onboarding/personal-insights.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "Overlapping translucent discs with a curved row of mauve dots",
+    "usage": "Onboarding step 3",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "onboarding/self-care",
+    "src": "/assets/onboarding/self-care.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "Two sculpted hands cupping a pale pink petal",
+    "usage": "Onboarding step 4",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "cycle/menstrual",
+    "src": "/assets/cycle/menstrual.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "Folded deep rose petals on ivory paper",
+    "usage": "Menstrual phase",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "cycle/follicular",
+    "src": "/assets/cycle/follicular.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "A small unopened bud with pale lilac leaves",
+    "usage": "Follicular phase",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "cycle/ovulatory",
+    "src": "/assets/cycle/ovulatory.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "An open blush flower with light passing through its petals",
+    "usage": "Ovulatory phase",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "cycle/luteal",
+    "src": "/assets/cycle/luteal.webp",
+    "width": 768,
+    "height": 768,
+    "format": "webp",
+    "alt": "A curled mauve leaf holding a small seed pod",
+    "usage": "Luteal phase",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "wellness/sleep-recovery",
+    "src": "/assets/wellness/sleep-recovery.webp",
+    "width": 1050,
+    "height": 700,
+    "format": "webp",
+    "alt": "An ivory eye mask resting on folded lilac linen",
+    "usage": "Sleep and recovery article",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "wellness/relaxation",
+    "src": "/assets/wellness/relaxation.webp",
+    "width": 1050,
+    "height": 700,
+    "format": "webp",
+    "alt": "A ceramic cup beside a sprig on blush linen",
+    "usage": "Relaxation article",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "wellness/breathing",
+    "src": "/assets/wellness/breathing.webp",
+    "width": 1050,
+    "height": 700,
+    "format": "webp",
+    "alt": "A loop of translucent mauve fabric suspended above ivory",
+    "usage": "Breathing exercise",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "wellness/journaling",
+    "src": "/assets/wellness/journaling.webp",
+    "width": 1050,
+    "height": 700,
+    "format": "webp",
+    "alt": "An open blank journal with a pencil and a dried petal",
+    "usage": "Journaling article",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "wellness/self-care",
+    "src": "/assets/wellness/self-care.webp",
+    "width": 1050,
+    "height": 700,
+    "format": "webp",
+    "alt": "An adult hand resting on folded blush linen",
+    "usage": "Self-care article",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "wellness/education",
+    "src": "/assets/wellness/education.webp",
+    "width": 1050,
+    "height": 700,
+    "format": "webp",
+    "alt": "Pressed botanical specimens layered between pink and lilac vellum cards",
+    "usage": "Wellness education collection",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": false,
+    "status": "Ready for review"
+  },
+  {
+    "id": "empty-states/no-period-history",
+    "src": "/assets/empty-states/no-period-history.webp",
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "alt": "",
+    "usage": "Empty period history",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "empty-states/no-symptoms",
+    "src": "/assets/empty-states/no-symptoms.webp",
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "alt": "",
+    "usage": "Empty symptom log",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "empty-states/no-insights",
+    "src": "/assets/empty-states/no-insights.webp",
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "alt": "",
+    "usage": "Empty insights",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "empty-states/no-journal",
+    "src": "/assets/empty-states/no-journal.webp",
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "alt": "",
+    "usage": "Empty journal",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "empty-states/empty-report",
+    "src": "/assets/empty-states/empty-report.webp",
+    "width": 512,
+    "height": 512,
+    "format": "webp",
+    "alt": "",
+    "usage": "Empty health report",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Ready for review"
+  },
+  {
+    "id": "icons/mood-radiant",
+    "src": "/assets/icons/mood-radiant.svg",
+    "width": 24,
+    "height": 24,
+    "format": "svg",
+    "alt": "Radiant face",
+    "usage": "Previous vector mood icon",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Vector-authored · retained"
+  },
+  {
+    "id": "icons/mood-calm",
+    "src": "/assets/icons/mood-calm.svg",
+    "width": 24,
+    "height": 24,
+    "format": "svg",
+    "alt": "Calm face",
+    "usage": "Previous vector mood icon",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Vector-authored · retained"
+  },
+  {
+    "id": "icons/mood-tender",
+    "src": "/assets/icons/mood-tender.svg",
+    "width": 24,
+    "height": 24,
+    "format": "svg",
+    "alt": "Tender face",
+    "usage": "Previous vector mood icon",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Vector-authored · retained"
+  },
+  {
+    "id": "icons/mood-tired",
+    "src": "/assets/icons/mood-tired.svg",
+    "width": 24,
+    "height": 24,
+    "format": "svg",
+    "alt": "Tired face",
+    "usage": "Previous vector mood icon",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Vector-authored · retained"
+  },
+  {
+    "id": "icons/mood-low",
+    "src": "/assets/icons/mood-low.svg",
+    "width": 24,
+    "height": 24,
+    "format": "svg",
+    "alt": "Low mood face",
+    "usage": "Previous vector mood icon",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Vector-authored · retained"
+  },
+  {
+    "id": "icons/ai-care-emblem",
+    "src": "/assets/icons/ai-care-emblem.svg",
+    "width": 32,
+    "height": 32,
+    "format": "svg",
+    "alt": "AI Care crescent in a speech bubble",
+    "usage": "AI Care conversation and empty state",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "Vector-authored and integrated"
+  },
+  {
+    "id": "editorial/chiffon-orbit",
+    "src": "/assets/editorial/chiffon-orbit.webp",
+    "width": 733,
+    "height": 440,
+    "format": "webp",
+    "alt": "An open orbit of sheer rose chiffon",
+    "usage": "Decorative Today cycle ornament",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "ImageGen · integrated locally"
+  },
+  {
+    "id": "mood/radiant",
+    "src": "/assets/mood/radiant.webp",
+    "width": 256,
+    "height": 256,
+    "format": "webp",
+    "alt": "Radiant porcelain expression",
+    "usage": "Today and Mood Tracker expression",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "ImageGen · integrated locally"
+  },
+  {
+    "id": "mood/calm",
+    "src": "/assets/mood/calm.webp",
+    "width": 256,
+    "height": 256,
+    "format": "webp",
+    "alt": "Calm porcelain expression",
+    "usage": "Today and Mood Tracker expression",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "ImageGen · integrated locally"
+  },
+  {
+    "id": "mood/tender",
+    "src": "/assets/mood/tender.webp",
+    "width": 256,
+    "height": 256,
+    "format": "webp",
+    "alt": "Tender porcelain expression",
+    "usage": "Today and Mood Tracker expression",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "ImageGen · integrated locally"
+  },
+  {
+    "id": "mood/tired",
+    "src": "/assets/mood/tired.webp",
+    "width": 256,
+    "height": 256,
+    "format": "webp",
+    "alt": "Tired porcelain expression",
+    "usage": "Today and Mood Tracker expression",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "ImageGen · integrated locally"
+  },
+  {
+    "id": "mood/low",
+    "src": "/assets/mood/low.webp",
+    "width": 256,
+    "height": 256,
+    "format": "webp",
+    "alt": "Low porcelain expression",
+    "usage": "Today and Mood Tracker expression",
+    "focalPoint": [
+      0.5,
+      0.5
+    ],
+    "transparency": true,
+    "status": "ImageGen · integrated locally"
+  }
+]
